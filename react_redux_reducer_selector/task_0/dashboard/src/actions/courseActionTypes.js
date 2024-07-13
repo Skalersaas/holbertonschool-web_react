@@ -1,8 +1,0 @@
-const SELECT_COURSE = 'SELECT_COURSE';
-
-const UNSELECT_COURSE = 'UNSELECT_COURSE';
-
-module.exports = {
-  SELECT_COURSE,
-  UNSELECT_COURSE,
-};
